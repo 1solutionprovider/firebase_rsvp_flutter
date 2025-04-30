@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183685754520",
+    "project_id": "fir-rsvp-flutter",
+    "storage_bucket": "fir-rsvp-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183685754520:android:637648d2498391d34f6aed",
+        "android_client_info": {
+          "package_name": "com.example.firebase_rsvp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsD0bV7A4sjVbC2ysfZLUnQJMB7GOp2uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
